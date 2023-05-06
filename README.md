@@ -1,7 +1,5 @@
-[![MasterHead]](https://gfycat.com/betterhandmadegull)
 # 💫 About Me:
 I am Vatsal Patel.<br>I'm study in Gujarat University, Ahmedabad.<br>I'm studying Integrated M.Sc It Software Development (Web and Mobile).<br>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/680395456178825281/">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-patel-523798229) 
@@ -19,13 +17,5 @@ I am Vatsal Patel.<br>I'm study in Gujarat University, Ahmedabad.<br>I'm studyin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vatsal0410&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Vatsal0410&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Vatsal0410&icon=5&color=1)]
